@@ -12,7 +12,7 @@ To write a Python program to check whether the given number is **even** or **odd
 4. End the program.
 
 ## 🧾 Program
-```
+```py
 num=int(input())
 if(num%2==0):
       print("Even")
@@ -26,7 +26,7 @@ else:
 Thus the program has been successfully executed
 
 
-# Ex 1:Datatypes-Boolean Expression Evaluation in Python
+# Datatypes-Boolean Expression Evaluation in Python
 
 ## 🎯 Aim
 To write a Python program that evaluates and prints the results of boolean and arithmetic expressions involving `True` and `False`.
@@ -42,7 +42,7 @@ To write a Python program that evaluates and prints the results of boolean and a
 8. Print the value of `d` with the label "d:".
 
 ## 💻 Program
-```
+```py
 a = (0 == True)
 b = (False== False)
 c = True + True
@@ -68,7 +68,7 @@ To write a Python program that prints the characters `'T'` and `'a'` using chara
 2. Print the character `'a'`.
 
 ## 🧾 Program
-```
+```py
 v='T'
 b='a'
 print(v)
@@ -96,7 +96,7 @@ To write a Python program that reads two integers, creates a complex number usin
 
 
 ## 💻 Program
-```
+```py
 x=int(input(''))
 y=int(input(''))
 x=complex(x,y)
@@ -122,7 +122,7 @@ To write a Python program to read a string from the user and then print it.
 3. Print the value stored in the variable.
 
 ## 🧾 Program
-```
+```py
 men_stepped_on_the_moon=input()
 print(men_stepped_on_the_moon)
 ```
